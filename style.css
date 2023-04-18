@@ -1,0 +1,41 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 15-Feb-2023, 15:00:04
+    Author     : Hi
+*/
+
+
+.body{
+    display:inline;
+    text-align:center;
+    border-radius:12px;
+    background-image:linearGradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)),url(C:\xampp\htdocs\PhpProject1\Background.jpg);
+    background-position: center;
+    background-size: cover;
+}
+img{margin: 50px; width:200px; height:400px}
+
+.heading{text-align:center;
+        font-style: normal; display: inline-block;
+        color: black; text-decoration: none;
+       
+}
+.heading:hover{color: red;}
+header p{text-align:right;}
+header ul li{list-style:none;display:inline-block;padding:10px 10px;   }
+
+header ul li a{color:black;text-decoration:none;font-weight:bold;  }
+header ul li a:hover{color:red;}
+
+
+footer{
+    background-color:#999999;
+    font-size: 14px; color: #ffffff; font-weight: bold;
+}
+.shell a {list-style: none; display: inline-block ; padding: 10px 10px;                  }
+
+.shell a{color:white;text-decoration: none;font-weight: bold;}
+.shell  a:hover{color:#33ccff;}
